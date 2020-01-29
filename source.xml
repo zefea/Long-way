@@ -1,0 +1,219 @@
+﻿<?xml version="1.0"?>
+<Araclar>
+    <Arac>
+        <Turu>Otobüs</Turu>
+        <Plaka>34BİL122</Plaka>
+        <Suruculer>
+            <Surucu>
+                <Adi>Ahmet Uzunyol</Adi>
+                <Yasi>43</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Mehmet Sollamaz</Adi>
+                <Yasi>34</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yolcular>
+            <Yolcu>
+                <Adi>Ayşe Çokgezer</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>Balıkesir</InisNoktasi>
+            </Yolcu>
+            <Yolcu>
+                <Adi>Sefa Camkenarı</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>İzmir</InisNoktasi>
+            </Yolcu>
+            <Yolcu>
+                <Adi>Fatma İndiBindi</Adi>
+                <BinisNoktasi>İstanbul</BinisNoktasi>
+                <InisNoktasi>Gebze</InisNoktasi>
+            </Yolcu>
+        </Yolcular>
+    </Arac>
+    <Arac>
+        <Turu>Kamyon</Turu>
+        <Plaka>41CPP11</Plaka>
+        <OzluSoz>Al yazmalım</OzluSoz>
+        <Suruculer>
+            <Surucu>
+                <Adi>Mert Derttaşır</Adi>
+                <Yasi>55</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yukler>
+            <Yuk>
+                <Icerik>Gouda Peyniri</Icerik>
+                <Agirlik>40</Agirlik>
+                <Hacim>30</Hacim>
+                <Alici>Ferhat Gurmeoğlu</Alici>
+                <BinisNoktasi>Ardahan</BinisNoktasi>
+                <InisNoktasi>Bolu</InisNoktasi>
+            </Yuk>
+        </Yukler>
+    </Arac>
+    <Arac>
+        <Turu>Otobüs</Turu>
+        <Plaka>34GDU27</Plaka>
+        <Suruculer>
+            <Surucu>
+                <Adi>Phoebe Buffey</Adi >
+                <Yasi>33</Yasi>
+                <EhliyetSinifi>D</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yolcular>
+            <Yolcu>
+                <Adi>Chandler Bing</Adi>
+                <BinisNoktasi>Kansas</BinisNoktasi>
+                <InisNoktasi>New York</InisNoktasi>
+            </Yolcu>
+        </Yolcular>
+    </Arac>
+    <Arac>
+        <Turu>Otobüs</Turu>
+        <Plaka>45gh45</Plaka>
+        <Suruculer>
+            <Surucu>
+                <Adi>Monica Geller</Adi>
+                <Yasi>40</Yasi>
+                <EhliyetSinifi>C</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yolcular>
+            <Yolcu>
+                <Adi></Adi>
+                <BinisNoktasi></BinisNoktasi>
+                <InisNoktasi></InisNoktasi>
+            </Yolcu>
+        </Yolcular>
+    </Arac>
+    <Arac>
+        <Turu>Otobüs</Turu>
+        <Plaka>55lk23</Plaka>
+        <Suruculer>
+            <Surucu>
+                <Adi>Zeynep Akkurt</Adi>
+                <Yasi>36</Yasi>
+                <EhliyetSinifi>B</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Emira Efe</Adi>
+                <Yasi>49</Yasi>
+                <EhliyetSinifi>D</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yolcular>
+            <Yolcu>
+                <Adi>Dilara Akkurt</Adi>
+                <BinisNoktasi>Kadıköy</BinisNoktasi>
+                <InisNoktasi>Beşiktaş</InisNoktasi>
+            </Yolcu>
+        </Yolcular>
+    </Arac>
+    <Arac>
+        <Turu>Otobüs</Turu>
+        <Plaka>10mkd23</Plaka>
+        <Suruculer>
+            <Surucu>
+                <Adi>Yiğit Emir</Adi>
+                <Yasi>48</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Aynur Aydın</Adi>
+                <Yasi>35</Yasi>
+                <EhliyetSinifi>C</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yolcular>
+            <Yolcu>
+                <Adi></Adi>
+                <BinisNoktasi></BinisNoktasi>
+                <InisNoktasi></InisNoktasi>
+            </Yolcu>
+        </Yolcular>
+    </Arac>
+    <Arac>
+        <Turu>Kamyon</Turu>
+        <Plaka>25kk78</Plaka>
+        <OzluSoz>Bilemedim</OzluSoz>
+        <Suruculer>
+            <Surucu>
+                <Adi>Abdül Aslı</Adi>
+                <Yasi>60</Yasi>
+                <EhliyetSinifi>B</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+         <Yukler>
+            <Yuk>
+                <Icerik>Gouda Peyniri</Icerik>
+                <Agirlik>44</Agirlik>
+                <Hacim>40</Hacim>
+                <Alici>Mustafa As</Alici>
+                <BinisNoktasi>Kars</BinisNoktasi>
+                <InisNoktasi>Adana</InisNoktasi>
+            </Yuk>
+            <Yuk>
+                <Icerik>KAyakkabı</Icerik>
+                <Agirlik>80</Agirlik>
+                <Hacim>50</Hacim>
+                <Alici>Ceren Koban</Alici>
+                <BinisNoktasi>İzmir</BinisNoktasi>
+                <InisNoktasi>Çanakkale</InisNoktasi>
+            </Yuk>
+        </Yukler>
+    </Arac>
+     <Arac>
+        <Turu>Kamyon</Turu>
+        <Plaka>45hh45</Plaka>
+        <OzluSoz>Çok Sevdim</OzluSoz>
+        <Suruculer>
+            <Surucu>
+                <Adi>Kazım İnan</Adi>
+                <Yasi>56</Yasi>
+                <EhliyetSinifi>D</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Joey Tribbiani</Adi>
+                <Yasi>47</Yasi>
+                <EhliyetSinifi>C</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yukler>
+            <Yuk>
+                <Icerik>Kutu</Icerik>
+                <Agirlik>2500</Agirlik>
+                <Hacim>452</Hacim>
+                <Alici>Natasha Sar</Alici>
+                <BinisNoktasi>Kansas</BinisNoktasi>
+                <InisNoktasi>New Jersey</InisNoktasi>
+            </Yuk>
+        </Yukler>
+    </Arac>
+     <Arac>
+        <Turu>Kamyon</Turu>
+        <Plaka>33MİY25</Plaka>
+        <OzluSoz>Merhaba Hayat</OzluSoz>
+        <Suruculer>
+            <Surucu>
+                <Adi></Adi>
+                <Yasi>0</Yasi>
+                <EhliyetSinifi></EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yukler>
+            <Yuk>
+                <Icerik>Salça</Icerik>
+                <Agirlik>3200</Agirlik>
+                <Hacim>3330</Hacim>
+                <Alici>Firdevs Akkurt</Alici>
+                <BinisNoktasi>Bursa</BinisNoktasi>
+                <InisNoktasi>İstanbul</InisNoktasi>
+            </Yuk>
+        </Yukler>
+    </Arac>
+</Araclar>
