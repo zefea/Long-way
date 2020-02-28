@@ -10,7 +10,7 @@ int main(int argc, char **argv)
 {
 	list<Arac*>arac;
 	cout << "Okunan Arac Sayisi:  ";
-	cout << dosyadanOku("bil122_hw08.xml",arac);
+	cout << dosyadanOku("source.xml",arac);
 	
 	return 0;
 }
